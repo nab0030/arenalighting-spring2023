@@ -621,118 +621,74 @@
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.ShaderGraph.Editor">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.VSCode.Editor">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.Universal.Shaders">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.Universal.Editor">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro.Editor">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.VisualStudio.Editor">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Timeline.Editor">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Timeline">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics.Editor">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Searcher.Editor">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.Core.Runtime">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PlasticSCM.Editor">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Rider.Editor">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.Core.Editor">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics">
+ <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Unity.ShaderGraph.Editor.csproj">
-      <Project>{9EB7781A-C72C-6912-8B5B-9B35128CD64D}</Project>
-      <Name>Unity.ShaderGraph.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VSCode.Editor.csproj">
-      <Project>{F48A8AE3-4BA7-C6C2-3F70-DDA4DE9FE60B}</Project>
-      <Name>Unity.VSCode.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Shaders.csproj">
-      <Project>{85CD7E67-416B-4B8B-25A3-C853966D099A}</Project>
-      <Name>Unity.RenderPipelines.Universal.Shaders</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
-      <Project>{F68393AB-00A6-9516-672B-94BCCD6FF645}</Project>
-      <Name>Unity.RenderPipelines.Universal.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
-      <Project>{D0BCDD03-D78D-010C-70ED-0757BC72FFF4}</Project>
-      <Name>Unity.RenderPipelines.Universal.Runtime</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
-      <Project>{6CBA9DBB-F3D1-99E7-F517-5E42D14AE953}</Project>
-      <Name>Unity.TextMeshPro.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
-      <Project>{DDD79E5C-8836-FC07-38A2-847FDA988A50}</Project>
-      <Name>Unity.VisualStudio.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
-      <Project>{D314A9AC-9E62-698E-EE76-74935124033E}</Project>
-      <Name>Unity.RenderPipeline.Universal.ShaderLibrary</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Timeline.Editor.csproj">
-      <Project>{BA9F5C8E-D7E0-99AE-1FCA-F0C290683A3D}</Project>
-      <Name>Unity.Timeline.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{9BFF80EF-6F9C-C99C-DB55-F7E5C0833BD7}</Project>
-      <Name>Unity.Timeline</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
-      <Project>{8551B0F4-D033-5B8F-C70E-351FAFE61C6E}</Project>
-      <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{BCCE0152-5C83-82EB-2FD5-FBDA0578BD6B}</Project>
-      <Name>Unity.TextMeshPro</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
-      <Project>{28FFEB9D-73FF-A1B1-854A-7A3B7F512FB8}</Project>
-      <Name>Unity.Mathematics.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Searcher.Editor.csproj">
-      <Project>{167F54EC-C155-9B1B-45D8-C6DC4DB2268A}</Project>
-      <Name>Unity.Searcher.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{6F9EE8AD-82D4-C695-C81C-6D25E96DF08B}</Project>
-      <Name>Unity.RenderPipelines.Core.Runtime</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{B3F06514-EBE8-7947-57DF-8DE15481CF17}</Project>
-      <Name>UnityEditor.UI</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
-      <Project>{BAE442D7-E977-C4E0-6FB2-BFD303043A8B}</Project>
-      <Name>Unity.PlasticSCM.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Rider.Editor.csproj">
-      <Project>{975FCF65-21DD-3DBB-9C0D-0A3F6B02B7BD}</Project>
-      <Name>Unity.Rider.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.ShaderLibrary.csproj">
-      <Project>{B61A7E76-8F53-7B33-671D-D79EB804AB1D}</Project>
-      <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{0A5D5D0E-D376-C178-85E3-F6D07EC77F2C}</Project>
-      <Name>UnityEngine.UI</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
-      <Project>{37AE76ED-0935-17DA-1A89-D15E1AC73B2A}</Project>
-      <Name>Unity.RenderPipelines.Core.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{480DEC53-AE22-C34E-992F-9A24CF45298D}</Project>
-      <Name>Unity.Mathematics</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
