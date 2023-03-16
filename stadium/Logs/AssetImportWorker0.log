@@ -1,138 +1,208 @@
+Unity Editor version:    2020.3.27f1 (e759542391ea)
+Branch:                  2020.3/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.1 (Build 22C65)
+Darwin version:          22.2.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
 Using pre-set license
-Built from '2020.3/release' branch; Version is '2020.3.27f1 (e759542391ea) revision 15161684'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10  (10.0.18362) 64bit Professional' Language: 'en' Physical Memory: 8062 MB
-BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+Pro License: NO
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Unity.exe
+/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/MacOS/Unity
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/dss0029/arenalighting-spring2023/stadium
+/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59061
-Successfully changed project path to: C:/Users/dss0029/arenalighting-spring2023/stadium
-C:/Users/dss0029/arenalighting-spring2023/stadium
+61373
+Successfully changed project path to: /Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium
+/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 89.02 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 77.31 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.27f1 (e759542391ea)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/dss0029/arenalighting-spring2023/stadium/Assets
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Assets
 GfxDevice: creating device client; threaded=0
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
-    Vendor:   
-    VRAM:     4031 MB
-    Driver:   26.20.100.7262
+2023-03-16 14:45:24.285 Unity[20786:1569495] Color LCD preferred device: AMD Radeon Pro 555X (high power)
+2023-03-16 14:45:24.285 Unity[20786:1569495] Metal devices available: 2
+2023-03-16 14:45:24.286 Unity[20786:1569495] 0: AMD Radeon Pro 555X (high power)
+2023-03-16 14:45:24.286 Unity[20786:1569495] 1: Intel(R) UHD Graphics 630 (low power)
+2023-03-16 14:45:24.286 Unity[20786:1569495] Using device AMD Radeon Pro 555X (high power)
+Initializing Metal device caps: AMD Radeon Pro 555X
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56508
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56786
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003526 seconds.
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 68.27 ms, found 2 plugins.
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003010 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 65.43 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.934 seconds
+- Completed reload, in  0.799 seconds
 Domain Reload Profiling:
-	ReloadAssembly (934ms)
-		BeginReloadAssembly (150ms)
+	ReloadAssembly (799ms)
+		BeginReloadAssembly (105ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (654ms)
-			LoadAssemblies (144ms)
-			RebuildTransferFunctionScriptingTraits (1ms)
-			SetupTypeCache (213ms)
+		EndReloadAssembly (593ms)
+			LoadAssemblies (105ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (202ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (238ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (236ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (68ms)
-				BeforeProcessingInitializeOnLoad (10ms)
-				ProcessInitializeOnLoadAttributes (108ms)
-				ProcessInitializeOnLoadMethodAttributes (44ms)
+				RefreshPlugins (65ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (121ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.019625 seconds.
+Registered in 0.009176 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 56.13 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 52.61 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.423 seconds
+- Completed reload, in  1.310 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1425ms)
-		BeginReloadAssembly (165ms)
+	ReloadAssembly (1311ms)
+		BeginReloadAssembly (150ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (20ms)
-		EndReloadAssembly (1173ms)
-			LoadAssemblies (154ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (1093ms)
+			LoadAssemblies (112ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (368ms)
+			SetupTypeCache (414ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (52ms)
-			SetupLoadedEditorAssemblies (436ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (358ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (56ms)
-				BeforeProcessingInitializeOnLoad (110ms)
-				ProcessInitializeOnLoadAttributes (242ms)
-				ProcessInitializeOnLoadMethodAttributes (17ms)
-				AfterProcessingInitializeOnLoad (7ms)
+				RefreshPlugins (53ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (215ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
+Validating Project structure ... 0.000851 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.000937 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+[C# Project] Writing /Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/stadium.sln because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/stadium.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{EC1EAE8A-B894-0870-6A7A-19EB7C2BA92C}"
+[C# Project]   005: EndProject
+[C# Project]   006: Global
+[C# Project]   007: 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+[C# Project]   008: 		Debug|Any CPU = Debug|Any CPU
+
+[C# Project] New /Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/stadium.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.csproj", "{0A5D5D0E-D376-C178-85E3-F6D07EC77F2C}"
+[C# Project]   005: EndProject
+[C# Project]   006: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.RenderPipelines.Core.Runtime", "Unity.RenderPipelines.Core.Runtime.csproj", "{6F9EE8AD-82D4-C695-C81C-6D25E96DF08B}"
+[C# Project]   007: EndProject
+[C# Project]   008: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{F231B729-97F3-4339-4370-C78639EDF473}"
+[C# Project] Writing /Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Assembly-CSharp.csproj because it has changed
+[C# Project] First difference on line 624
+
+[C# Project] Current /Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Assembly-CSharp.csproj:
+[C# Project]   624:  <Reference Include="Unity.ShaderGraph.Editor">
+[C# Project]   625:  <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+[C# Project]   626:  </Reference>
+[C# Project]   627:  <Reference Include="Unity.VSCode.Editor">
+[C# Project]   628:  <HintPath>/Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+
+[C# Project] New /Users/nickbuhl/Library/Mobile Documents/com~apple~CloudDocs/School Spring 23/COMP 4710 - Senior Design/Code/arenalighting-spring2023/stadium/Assembly-CSharp.csproj:
+[C# Project]   624:   </ItemGroup>
+[C# Project]   625:   <ItemGroup>
+[C# Project]   626:     <ProjectReference Include="Unity.ShaderGraph.Editor.csproj">
+[C# Project]   627:       <Project>{9EB7781A-C72C-6912-8B5B-9B35128CD64D}</Project>
+[C# Project]   628:       <Name>Unity.ShaderGraph.Editor</Name>
+2023-03-16 14:45:29.189 Unity[20786:1569495] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7f78aa055820 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2023-03-16 14:45:29.194 Unity[20786:1569495] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7f78a81b38f0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.27 seconds
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2809 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 124.5 MB.
-System memory in use after: 124.7 MB.
+Unloading 2818 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.8 MB.
+System memory in use after: 138.7 MB.
 
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3242.
-Total: 7.730000 ms (FindLiveObjects: 0.227100 ms CreateObjectMapping: 0.154100 ms MarkObjects: 7.030800 ms  DeleteObjects: 0.316500 ms)
+Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 3290.
+Total: 4.056848 ms (FindLiveObjects: 0.245742 ms CreateObjectMapping: 0.149621 ms MarkObjects: 3.428294 ms  DeleteObjects: 0.232386 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Game/Blue.mat
-  artifactKey: Guid(9a33af78a82db4f10a81fbae4a42cf77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/Blue.mat using Guid(9a33af78a82db4f10a81fbae4a42cf77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cd3d2d5859a8c459d4a15a43c4525e9') in 0.300553 seconds 
-  Import took 0.307715 seconds .
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ab9cefb01ceaadea56c26e195980a6') in 1.285126 seconds 
+  Import took 1.297877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 152.391823 seconds.
+  path: Assets/Section 1.prefab
+  artifactKey: Guid(7cd9d4cfe433541dc99e1561a6280df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Section 1.prefab using Guid(7cd9d4cfe433541dc99e1561a6280df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '665b12bf2ab03d6b1d4c44911b9f146c') in 0.636372 seconds 
+  Import took 0.648044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Sphere.prefab
+  artifactKey: Guid(256c7bc6ac85a47e98983f0fa0c368b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sphere.prefab using Guid(256c7bc6ac85a47e98983f0fa0c368b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91bc445e77b59712231ebc4113f471d') in 0.017716 seconds 
+  Import took 0.023444 seconds .
 
