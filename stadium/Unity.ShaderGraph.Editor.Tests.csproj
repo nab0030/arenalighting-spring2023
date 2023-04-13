@@ -47,28 +47,28 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\ShaderGeneratorTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\SerializedGraphTests.cs" />
-     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\MaterialGraphTests.cs" />
-     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\PropertyChunkTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\ListUtilityTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\IntegrationTests\SerializationTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\BlockNodeTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\MaterialSlotTests.cs" />
-     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\MessageManagerTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\PropertyNodeTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\FixedSlotTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\MaterialNodeTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\UtilityTests.cs" />
-     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\TargetTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\PropertyGeneratorTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\PixelShaderNodeTests.cs" />
-     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\TestSlot.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\StackTests.cs" />
-     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\TestNode.cs" />
-     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\DynamicSlotTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\IntegrationTests\NamespaceTests.cs" />
      <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\AbstractMaterialGraphTests.cs" />
+     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\ShaderGeneratorTests.cs" />
+     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\MaterialGraphTests.cs" />
+     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\PropertyChunkTests.cs" />
+     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\MessageManagerTests.cs" />
+     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\TargetTests.cs" />
+     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\TestSlot.cs" />
+     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\TestNode.cs" />
+     <Compile Include="Packages\com.unity.shadergraph\Tests\Editor\UnitTests\DynamicSlotTests.cs" />
      <None Include="Packages\com.unity.shadergraph\Tests\Editor\Unity.ShaderGraph.Editor.Tests.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>

@@ -48,9 +48,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Packages\com.unity.timeline\DocCodeExamples\TimelineEditorExamples.cs" />
-     <Compile Include="Packages\com.unity.timeline\DocCodeExamples\TimelineAttributesExamples.cs" />
      <Compile Include="Packages\com.unity.timeline\DocCodeExamples\TrackAssetExamples.cs" />
      <Compile Include="Packages\com.unity.timeline\DocCodeExamples\ActionExamples.cs" />
+     <Compile Include="Packages\com.unity.timeline\DocCodeExamples\TimelineAttributesExamples.cs" />
      <None Include="Packages\com.unity.timeline\DocCodeExamples\DocCodeExamples.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>

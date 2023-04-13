@@ -47,11 +47,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Packages\com.unity.render-pipelines.core\Tests\Editor\FixedBufferStringQueueTests.cs" />
      <Compile Include="Packages\com.unity.render-pipelines.core\Tests\Editor\EditorExampleTest.cs" />
+     <Compile Include="Packages\com.unity.render-pipelines.core\Tests\Editor\RenderGraphTests.cs" />
+     <Compile Include="Packages\com.unity.render-pipelines.core\Tests\Editor\FixedBufferStringQueueTests.cs" />
      <Compile Include="Packages\com.unity.render-pipelines.core\Tests\Editor\BitArrayTests.cs" />
      <Compile Include="Packages\com.unity.render-pipelines.core\Tests\Editor\CoreUnsafeUtilsTests.cs" />
-     <Compile Include="Packages\com.unity.render-pipelines.core\Tests\Editor\RenderGraphTests.cs" />
      <None Include="Packages\com.unity.render-pipelines.core\Tests\Editor\Unity.RenderPipelines.Core.Editor.Tests.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
